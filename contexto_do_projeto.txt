@@ -1,0 +1,214 @@
+# CONTEXTO ESTRATÉGICO DO PROJETO — ECOSSISTEMA MÔNICA MATTÉ
+
+**Data:** 23 de maio de 2026  
+**Finalidade:** Documento de alinhamento estratégico entre conversas, decisões e próximos passos do ecossistema de negócios de Mônica Matté. Baseado exclusivamente no histórico de discussões e análises realizadas até esta data.
+
+---
+
+## 1. Resumo executivo
+
+Este documento consolida o posicionamento, a arquitetura e as decisões estratégicas do ecossistema profissional de Mônica Matté. O projeto foi estruturado em quatro frentes complementares: serviços clínicos premium, recursos digitais, recursos físicos e app/plataforma futura. O ativo central do negócio é a propriedade intelectual clínica aplicada ao cotidiano familiar — ou seja, a capacidade de traduzir neuropsicologia e prática clínica em ferramentas práticas para pais, crianças e adolescentes.
+
+A estratégia prioriza a construção gradual de um ecossistema coeso, começando pela clínica como fonte de autoridade e validação, seguida por produtos digitais leves para validação de mercado, depois versões físicas dos materiais de maior adesão e, por fim, uma plataforma tecnológica que unifique a experiência do usuário. O app completo não é prioridade imediata e virá após a validação das camadas anteriores.
+
+---
+
+## 2. Contexto profissional de Mônica
+
+- **Formação e atuação:** Psicóloga e neuropsicóloga.
+- **Serviços atuais:** Avaliação neuropsicológica, psicoterapia (todos os públicos), orientação parental e familiar.
+- **Localização:** Medianeira, Paraná (Oeste Paranaense).
+- **Intenção estratégica:** Sair do posicionamento genérico ("atendo todos os públicos") e concentrar autoridade em orientação parental, atendimento infantojuvenil e avaliação neuropsicológica. A terapia do esquema e a neuropsicologia entram como profundidade clínica, não como headline comercial.
+
+---
+
+## 3. Persona e mercado já definidos
+
+- **Persona central:** Mãe decisora, sobrecarregada, orientada por desempenho e bem-estar dos filhos, que busca respostas claras e aplicáveis para situação reais do dia a dia.
+- **Faixa etária provável:** 32 a 45 anos.
+- **Gênero predominante:** Feminino, com participação secundária do pai no fechamento de decisões.
+- **Dores principais mapeadas:**
+  - Comportamento desafiador (birras, oposição, explosões)
+  - Conflito com uso de telas e limites
+  - Dificuldade de rotina (sono, tarefas, escola)
+  - Culpa parental e sensação de incompetência
+  - Necessidade de direção prática ("o que fazer agora?")
+  - Dúvida entre fase normal, falha de manejo e sinal clínico
+- **Leitura do mercado local:** Medianeira e entorno (Oeste Paranaense). A atuação clínica é local, mas o serviço de avaliação neuropsicológica tem potencial regional, com raio de alcance que inclui cidades vizinhas.
+
+---
+
+## 4. Diagnóstico estratégico já concluído
+
+- **Maior gargalo atual:** Posicionamento difuso. A comunicação "atendo todos os públicos" enfraquece a percepção de especialidade e dificulta a tomada de decisão do paciente/pai.
+- **Melhor eixo de posicionamento:** Pais, comportamento, desenvolvimento, escola, orientação parental e avaliação neuropsicológica. A comunicação deve falar diretamente com a dor principal da persona.
+- **Papel da terapia do esquema:** Deve permanecer como profundidade clínica e abordagem de base, não como headline de marketing. O que vende é resolução de problemas, não modelo teórico.
+
+---
+
+## 5. Arquitetura estratégica do ecossistema
+
+### 5.1 Frente C — Serviços clínicos premium
+
+- **O que é:** A atuação presencial de Mônica na clínica.
+- **Serviços incluídos:** Psicoterapia infantojuvenil, avaliação neuropsicológica, orientação parental/familiar.
+- **Função estratégica:** Fonte primária de autoridade, legitimidade técnica e ticket alto. É a validação clínica que sustenta a credibilidade de todos os outros produtos.
+
+### 5.2 Frente A — Recursos digitais
+
+- **O que é:** Conjunto de ativos educacionais e práticos em formato digital.
+- **Produtos incluídos:** Microlearning (aulas curtas), e-books, PDFs aplicáveis, "Boa Noite, Pais e Filhos", "E agora, o que eu faço?" e outros recursos derivados da prática clínica.
+- **Função estratégica:** Permitir escala, validar mercado e monetizar a propriedade intelectual sem depender exclusivamente da agenda clínica. É a camada de entrada e recorrência do ecossistema.
+
+### 5.3 Frente B — Recursos físicos
+
+- **O que é:** Versões tangíveis dos materiais de maior adesão.
+- **Produtos incluídos:** Cartas, kits, baralhos, cadernos, guias impressos e outros formatos físicos aplicáveis (desenvolvidos após validação digital).
+- **Função estratégica:** Tangibilizar o conhecimento, aumentar o valor percebido, criar ritual de uso e ampliar a presença da marca em casa, consultório e escola.
+
+### 5.4 Frente D — App / plataforma futura
+
+- **O que é:** Webapp, PWA ou aplicativo nativo a ser desenvolvido em fase posterior.
+- **Função estratégica:** Sistematizar a jornada do usuário, organizar todos os recursos, criar retenção e recorrência, e oferecer busca inteligente, trilhas personalizadas e fluxos de decisão.
+- **Nota importante:** Não é prioridade imediata. Virá após a validação das camadas anteriores (C, A, B).
+
+---
+
+## 6. Lógica estratégica central do projeto
+
+A lógica que conecta as quatro frentes pode ser resumida na frase:
+
+> **A clínica valida, o digital escala, o físico tangibiliza, o app sistematiza.**
+
+Desdobramento prático:
+
+- **Clínica valida:** A experiência real com pacientes gera os insights, as perguntas recorrentes e a autoridade que alimentam os produtos.
+- **Digital escala:** Recursos digitais permitem alcançar mais pessoas com baixo custo marginal, testar formatos e gerar receita recorrente.
+- **Físico tangibiliza:** Versões físicas aumentam o valor percebido, criam rituais de uso e ampliam o alcance para canais offline.
+- **App sistematiza:** A plataforma tecnológica unifica a experiência, organiza o conteúdo e constrói retenção de longo prazo.
+
+Essa lógica impede o erro comum de pular etapas e começar pelo app antes de validar o conteúdo e a demanda.
+
+---
+
+## 7. Tese-mãe do MVP
+
+**Hipótese central validável:** Pais com filhos em idade escolar (6 a 12 anos), vivendo sobrecarga e conflitos cotidianos (telas, limites, comportamento, rotina), pagariam por um sistema digital leve que ofereça:
+
+- respostas rápidas para situações agudas ("o que fazer agora?")
+- roteiros de fala prontos ("o que dizer")
+- rituais de conexão breves (baseados em "Boa Noite, Pais e Filhos")
+- orientação prática aplicável fora da tela (offline-oriented)
+
+**Características do MVP:**
+
+- **Parent-first:** O usuário principal é o pai/mãe, não a criança.
+- **Screen-light:** A criança não precisa ficar no celular. O digital serve apenas aos pais.
+- **Offline-oriented:** O conteúdo gera ações e interações no mundo real, não dentro do app.
+- **Leve:** Navegação simples, busca por situação, sem gamificação pesada ou loops viciantes.
+
+O MVP não é um app completo, mas um ecossistema digital básico (web responsiva ou PWA) que organiza os recursos iniciais e valida a disposição de compra.
+
+---
+
+## 8. Produtos mais promissores já identificados
+
+### 8.1 "E agora, o que eu faço?"
+
+- **Tipo:** Produto de entrada.
+- **Público:** Pais em situação de crise ou dúvida aguda (birra, tela, limite, escola, ansiedade).
+- **Estrutura por situação:** O que pode estar acontecendo, o que fazer agora, o que evitar, o que dizer, quando observar, quando buscar ajuda profissional.
+- **Potencial:** Pode evoluir para versão digital (entrada), física (baralho/cartas) e posteriormente ser o núcleo do app (busca inteligente por situação).
+
+### 8.2 "Boa Noite, Pais e Filhos"
+
+- **Tipo:** Produto de rotina e vínculo.
+- **Público:** Pais que desejam melhorar a conexão com os filhos em momentos tranquilos (noite, jantar, fim de semana).
+- **Formato inicial:** Digital (cartões, áudios, perguntas) para os pais; aplicação offline com a criança.
+- **Função estratégica:** Gera retenção, recorrência e fidelização. Ideal para assinatura ou complemento do produto de entrada.
+
+### 8.3 Microlearning
+
+- **Tipo:** Camada de formação.
+- **Formato:** Aulas curtas (5 a 10 minutos), focadas em temas como telas, limites, regulação emocional, comunicação com pré-adolescentes, diferença entre birra e desregulação e outros tópicos de alta demanda.
+- **Função:** Aprofundamento e upselling para quem já consumiu os produtos de entrada ou rotina.
+
+---
+
+## 9. O que foi descartado ou adiado nesta fase
+
+- **App completo:** Não será construído agora. É fase posterior, após validação de conteúdo e demanda.
+- **Escopo amplo:** Não tentar abranger todas as idades ou temas de uma vez. O foco inicial é a faixa de 6 a 12 anos e os eixos comportamento/telas/vínculo.
+- **Posicionamento como "plataforma grande de parentalidade":** Evitar no início. O posicionamento deve ser concreto ("respostas práticas para pais").
+- **Estímulo ao tempo de tela infantil:** Nenhum produto deve incentivar a criança a usar mais o celular. O digital é ferramenta para os pais, não para os filhos.
+- **Software complexo antes de validação:** Não desenvolver funcionalidades pesadas (gamificação infantil, algoritmos complexos) sem antes confirmar que os pais compram e usam o conteúdo.
+
+---
+
+## 10. Conceitos e nomenclaturas acordados
+
+| Termo | Definição curta 
+| **Recursos digitais** | Ativos educacionais em formato digital (microlearning, e-books, PDFs, áudios). |
+| **App / webapp / PWA** | Plataforma tecnológica futura para organizar a experiência do usuário. |
+| **Tese-mãe do MVP** | Pais pagariam por um sistema prático de respostas e rituais, aplicáveis fora da tela, com base em neuropsicologia. |
+| **Dor principal** | Comportamento, telas, limites, culpa, dúvida entre fase/manejo/sinal clínico. |
+| **Camada de emergência** | Respostas rápidas para situações agudas (crises, conflitos imediatos). |
+| **Camada de formação** | Microlearning para aprofundamento de temas. |
+| **Árvore de decisão** | Fluxo de perguntas e respostas que direciona o pai à conduta mais adequada. |
+| **Screen-light** | Produto que não exige que a criança fique exposta à tela. |
+| **Offline-oriented** | O conteúdo gera ações no mundo real, fora do ambiente digital. |
+
+---
+
+## 11. Decisões estratégicas já tomadas
+
+1. A clínica será mantida como frente de autoridade e validação, e também como fonte de insumos para os produtos.
+2. Recursos digitais entram antes do app completo; a validação de mercado será feita primeiro com produtos leves.
+3. O app/plataforma é fase posterior, condicionada à validação das camadas anteriores.
+4. "E agora, o que eu faço?" e "Boa Noite, Pais e Filhos" são os ativos centrais do portfólio inicial.
+5. O posicionamento principal de Mônica deve enfatizar orientação parental, infantojuvenil e avaliação neuropsicológica — abandonando a comunicação genérica.
+6. A terapia do esquema não será headline comercial; ficará como base clínica de profundidade.
+
+---
+
+## 12. Próximos passos recomendados
+
+1. **Consolidar posicionamento de Mônica** — revisar bio, comunicação e destaque no perfil pessoal/profissional.
+2. **Transformar os dois materiais principais em versões digitais estruturadas** — "E agora, o que eu faço?" e "Boa Noite, Pais e Filhos" em formato de produto (organizado por situação, com busca, áudio opcional).
+3. **Definir proposta de valor e formato do MVP** — escolher o conteúdo exato da primeira versão, a forma de entrega (web responsiva, PDF interativo, mini área logada) e o preço de lançamento.
+4. **Validar aderência com pais reais** — testar com um grupo pequeno antes de escalar.
+5. **Decidir versão física** — baseado nos dados de venda e uso digital, criar versões impressas dos campeões.
+6. **Evoluir para webapp/app** — apenas após comprovação de demanda e recorrência.
+
+---
+
+## 13. Perguntas em aberto para próximas conversas
+
+- Modelo de precificação: assinatura, venda avulsa, combo ou híbrido?
+- Formato técnico ideal da primeira versão digital: PDF interativo, web responsiva, mini área logada, PWA leve?
+- Produto de entrada exato: qual será o primeiro item à venda? "E agora..." completo ou um recorte menor?
+- Esteira de produtos: ordem de lançamento dos demais itens (microlearning, versão física, etc.).
+- Estratégia de aquisição: canais orgânicos, parcerias, tráfego pago, conteúdo no perfil de Mônica?
+- Estratégia de lançamento: data, oferta de lançamento, espera, aquecimento?
+
+---
+
+## 14. CONTEXTO RÁPIDO PARA NOVOS CHATS
+
+*Bloco reutilizável para colar em futuras conversas como briefing de contexto.*
+
+> **Mônica Matté:** Psicóloga e neuropsicóloga, Medianeira/PR. Atende infantojuvenil, orientação parental e avaliação neuropsicológica. Quer sair do posicionamento genérico e focar em pais e desenvolvimento.
+>
+> **Projeto:** Ecossistema em quatro frentes: clínica (validação), recursos digitais (escala), recursos físicos (tangibilidade) e app futuro (sistematização). Ativo central: propriedade intelectual clínica aplicada à parentalidade.
+>
+> **Persona:** Mãe 32-45, sobrecarregada, filhos 6-12, dores com telas, limites, comportamento e culpa. Busca direção prática.
+>
+> **Produtos-âncora:** "E agora, o que eu faço?" (entrada, dor aguda) e "Boa Noite, Pais e Filhos" (rotina, vínculo). MVP é sistema digital leve, parent-first, screen-light, offline-oriented.
+>
+> **Decisão central:** App não é prioridade agora. Primeiro validar com produtos digitais simples; depois físicos; depois plataforma.
+>
+> **Próximo passo:** Definir formato técnico e preço do MVP, testar com pais reais, depois decidir sequência.
+
+---
+
+*Documento gerado em 23 de maio de 2026 com base no histórico de conversas e análises estratégicas. Pronto para reutilização em novos chats ou evoluções do projeto.*
